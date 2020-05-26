@@ -7,8 +7,7 @@ import (
 	"net/http"
 	"net/url"
 	"strings"
-	"./model/*"
-)
+	"https://github.com/phspies/nsx_30_sdk/model"
 
 // Linger please
 var (
